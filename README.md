@@ -1,4 +1,5 @@
- ![kodluyoruzilkrepo] (https://s.tmimgcdn.com/scr/800x500/78300/kedi-logo-sablonu_78332-2-original.jpg)
+# kodluyoruzilkrepo
+ ![Image](https://s.tmimgcdn.com/scr/100x100/78300/kedi-logo-sablonu_78332-2-original.jpg)
 
 Bu repo [patika.dev](https://academy.patika.dev/tr/courses/git/odev1) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 # Installation
